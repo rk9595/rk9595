@@ -6,7 +6,7 @@
 Backend Development - https://www.crio.do/learn/portfolio/rkshfc525/
 
 # TechStack -
-Frontend - TypeScript, JavaScript, React, HTML/CSS, animations, visualization libraries like CytoscapeJS, D3, nivo 
+Frontend - TypeScript, JavaScript, React, HTML/CSS, Animations, Data visualization libraries like CytoscapeJS, D3, nivo 
 
 Backend- NodeJs, JAVA
  
