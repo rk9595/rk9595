@@ -12,6 +12,6 @@ Frameworks - NextJs, SpringBoot
 
 Backend- NodeJs, JAVA
 
-Libraries worked with - Data visualization libraries like CytoscapeJS, D3, nivo, LeafletJs for maps, Framer Motion
+Additional Libraries- Data visualization libraries like CytoscapeJS, D3, nivo, LeafletJs for maps, Framer Motion
  
  
