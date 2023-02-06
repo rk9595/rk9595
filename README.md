@@ -8,7 +8,7 @@ Backend Development - https://www.crio.do/learn/portfolio/rkshfc525/
 # TechStack -
 Frontend - TypeScript, JavaScript, React, HTML/CSS, Animations
 
-Rendering Framework - NextJs
+Frameworks - NextJs, SpringBoot
 
 Backend- NodeJs, JAVA
 
