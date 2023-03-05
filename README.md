@@ -15,5 +15,9 @@ Backend - NodeJs, JAVA
 Additional Libraries - Data visualization libraries like CytoscapeJS, D3, nivo, LeafletJs for maps, Framer Motion
 
 Testing - Vitest, Jest
+
+Databases - MongoDb, PostreSQL
+
+Deployment - Docker
  
  
