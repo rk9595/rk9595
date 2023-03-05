@@ -16,7 +16,7 @@ Additional Libraries - Data visualization libraries like CytoscapeJS, D3, nivo, 
 
 Testing - Vitest, Jest
 
-Databases - MongoDb, PostreSQL
+Databases - MongoDb, PostgreSQL
 
 Deployment - Docker
  
