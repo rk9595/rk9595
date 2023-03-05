@@ -10,8 +10,10 @@ Frontend - TypeScript, JavaScript, React, HTML/CSS
 
 Frameworks - NextJs, SpringBoot
 
-Backend- NodeJs, JAVA
+Backend - NodeJs, JAVA
 
-Additional Libraries- Data visualization libraries like CytoscapeJS, D3, nivo, LeafletJs for maps, Framer Motion
+Additional Libraries - Data visualization libraries like CytoscapeJS, D3, nivo, LeafletJs for maps, Framer Motion
+
+Testing - Vitest, Jest
  
  
