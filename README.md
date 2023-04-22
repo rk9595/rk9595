@@ -6,7 +6,7 @@
 Backend Development - https://www.crio.do/learn/portfolio/rkshfc525/
 
 # TechStack -
-Frontend - TypeScript, JavaScript, React, NextJs, HTML/CSS, 
+Frontend - TypeScript, JavaScript, React, NextJs, HTML/CSS
 
 Backend - NodeJs, JAVA
 
@@ -18,6 +18,6 @@ Testing - Vitest, Jest
 
 Databases - MongoDb, PostgreSQL
 
-Deployment - Docker
+Deployment - Docker(basic)
  
  
