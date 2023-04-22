@@ -6,11 +6,11 @@
 Backend Development - https://www.crio.do/learn/portfolio/rkshfc525/
 
 # TechStack -
-Frontend - TypeScript, JavaScript, React, HTML/CSS
-
-Frameworks - NextJs, SpringBoot
+Frontend - TypeScript, JavaScript, React, NextJs, HTML/CSS, 
 
 Backend - NodeJs, JAVA
+
+Frameworks - NextJs, SpringBoot
 
 Additional Libraries - Data visualization libraries like CytoscapeJS, D3, nivo, LeafletJs for maps, Framer Motion
 
