@@ -1,7 +1,6 @@
 # Rakesh Kariya
  Electronics Engineer with a deep interest in Software Development, ex.Product Manager.
                                                                                        
- My primary hands-on experience is in Frontend Development. I am well versed with Javascript, React, HTML/CSS.                                                                                       
 ## Crio Software Development Fellowship Program
 Backend Development - https://www.crio.do/learn/portfolio/rkshfc525/
 
