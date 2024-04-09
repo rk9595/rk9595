@@ -1,9 +1,6 @@
 # Rakesh Kariya
  Electronics Engineer with a deep interest in Software Development, ex.Product Manager.
                                                                                        
-## Crio Software Development Fellowship Program
-Backend Development - https://www.crio.do/learn/portfolio/rkshfc525/
-
 # TechStack -
 Frontend - TypeScript, JavaScript, React, NextJs, HTML/CSS
 
@@ -18,6 +15,9 @@ Databases - MongoDb, PostgreSQL, MySQL
 Deployment - AWS, Docker(basic)
 
 Testing - Vitest, Jest
+
+Backend Development Projects in JAVA - https://www.crio.do/learn/portfolio/rkshfc525/
+
 
  
  
