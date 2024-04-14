@@ -1,5 +1,5 @@
 # Rakesh Kariya
- Electronics Engineer with a deep interest in Software Development, ex.Product Manager.
+ Electronics Engineer with a deep interest in Software Development, prev-Product Manager.
                                                                                        
 # TechStack -
 Frontend - TypeScript, JavaScript, React, NextJs, HTML/CSS
