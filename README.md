@@ -4,7 +4,7 @@
 # TechStack -
 Frontend - TypeScript, JavaScript, React, NextJs, HTML/CSS
 
-Backend - NodeJs, JAVA
+Backend - NodeJs, JAVA, C++, Go, Python
 
 Frameworks - NextJs, Express, SpringBoot
 
@@ -12,7 +12,7 @@ Additional Libraries - Data visualization libraries like CytoscapeJS, D3, nivo, 
 
 Databases - MongoDb, PostgreSQL, MySQL
 
-Deployment - AWS, Docker(basic)
+Deployment - AWS, Docker, Kubernetes
 
 Testing - Vitest, Jest
 
